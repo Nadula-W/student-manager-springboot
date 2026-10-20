@@ -1,8 +1,8 @@
 
-package com.example.studentmanager.service;
+package com.example.student_manager.service;
 
-import com.example.studentmanager.model.Student;
-import com.example.studentmanager.repository.StudentRepository;
+import com.example.student_manager.model.Student;
+import com.example.student_manager.repository.StudentRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
